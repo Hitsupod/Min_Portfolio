@@ -28,17 +28,17 @@ let resumeData = {
     "education":[
       {
         "UniversityName":"The University of Texas at San Antonio",
-        "specialization":"React",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "specialization":"Full Stack Developer Certification",
+        "MonthOfPassing":"Sept",
+        "YearOfPassing":"2020"
+        
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"The University of Texas at San Antonio",
+        "specialization":"Bachelor of Business Administration (BBA)",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2017"
+        
       }
     ],
     "work":[
